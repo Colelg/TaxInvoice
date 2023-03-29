@@ -1,0 +1,8 @@
+C:\Users\Logan\source\repos\InvoiceTotal\InvoiceTotal\obj\Release\InvoiceTotal.csproj.AssemblyReference.cache
+C:\Users\Logan\source\repos\InvoiceTotal\InvoiceTotal\obj\Release\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\Logan\source\repos\InvoiceTotal\InvoiceTotal\obj\Release\InvoiceTotal.frmSalesTax.resources
+C:\Users\Logan\source\repos\InvoiceTotal\InvoiceTotal\obj\Release\InvoiceTotal.Properties.Resources.resources
+C:\Users\Logan\source\repos\InvoiceTotal\InvoiceTotal\obj\Release\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\Logan\source\repos\InvoiceTotal\InvoiceTotal\obj\Release\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\Logan\source\repos\InvoiceTotal\InvoiceTotal\obj\Release\InvoiceTotal.exe
+C:\Users\Logan\source\repos\InvoiceTotal\InvoiceTotal\obj\Release\InvoiceTotal.pdb
